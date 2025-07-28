@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<limbi>
+    <spanish>
+        <titlu>SISTEMA PARQUE ZOOLÓGICO</titlu>
+        <login>Iniciar sesión</login>
+        <loginGuest>Iniciar sesión como invitado</loginGuest>
+        <titluL>Elija otro idioma:</titluL>
+        <guestView>Vista de invitado</guestView>
+        <angajatStuff>Administración de administradores</angajatStuff>
+        <title2>Seleccione una opción del menú izquierdo</title2>
+        <welcomingLabel>Bienvenido administrador </welcomingLabel>
+        <operationLabel>Elija una operación</operationLabel>
+
+        <add>Agregar usuario</add>
+        <titluAdd>Agregar usuario la base de datos</titluAdd>
+        <idLabel>Ingrese el ID</idLabel>
+        <nameLabel>Ingrese el nombre de usuario</nameLabel>
+        <speciesLabel>Ingrese la contraseña</speciesLabel>
+        <dietLabel>Establecer como administrador</dietLabel>
+        <butonAdd>Agregar usuario a la base de datos</butonAdd>
+
+        <find>Buscar usuario</find>
+        <titluFind>Buscar un usuario en la base de datos</titluFind>
+        <findLabel>Buscar usuario por</findLabel>
+        <coloanaID>ID</coloanaID>
+        <coloanaUsername>Nombre de usuario</coloanaUsername>
+        <coloanaPassword>Contraseña</coloanaPassword>
+        <coloanaAdmin>Administrador</coloanaAdmin>
+        <butonFind>Buscar usuario en la base de datos</butonFind>
+
+        <update>Actualizar usuario</update>
+        <titluUpdate>Actualizar un usuario de la base de datos</titluUpdate>
+        <label1>¿Qué usuario desea actualizar?</label1>
+        <comboID>ID</comboID>
+        <comboUsername>nombre de usuario</comboUsername>
+        <comboPassword>contraseña</comboPassword>
+        <comboAdmin>administrador</comboAdmin>
+        <label2>¿Convertir usuario en administrador?</label2>
+        <butonUpdate>Actualizar usuario en la base de datos</butonUpdate>
+
+        <delete>Eliminar usuario</delete>
+        <titluDelete>Eliminar un usuario de la base de datos</titluDelete>
+        <deleteLabel>¿Qué usuario desea eliminar?</deleteLabel>
+        <butonDelete>Eliminar usuario de la base de datos</butonDelete>
+
+        <viewAll>Ver todos los usuarios</viewAll>
+        <viewLabel>Tabla con todos los usuarios de la base de datos.</viewLabel>
+
+        <emailLabel>Introduzca el correo electrónico</emailLabel>
+        <phoneLabel>Introduzca el número de teléfono</phoneLabel>
+
+    </spanish>
+
+    <english>
+        <titlu>ZOO PARK SYSTEM</titlu>
+        <login>Login</login>
+        <loginGuest>Login as a Guest</loginGuest>
+        <titluL>Choose another language:</titluL>
+        <guestView>Guest View</guestView>
+        <angajatStuff>Admin Management</angajatStuff>
+        <title2>Select an option from the left menu</title2>
+        <welcomingLabel>Welcome admin </welcomingLabel>
+        <operationLabel>Choose an operation</operationLabel>
+
+        <titluAdd>Add a new user to database</titluAdd>
+        <idLabel>Enter the ID</idLabel>
+        <nameLabel>Enter the username</nameLabel>
+        <speciesLabel>Enter the password</speciesLabel>
+        <dietLabel>Set as admin</dietLabel>
+        <butonAdd>Add user to database</butonAdd>
+
+        <titluFind>Find an user in database</titluFind>
+        <findLabel>Search user by</findLabel>
+        <butonFind>Find user in database</butonFind>
+
+        <titluUpdate>Update an user from database</titluUpdate>
+        <label1>Which user to update:</label1>
+        <label2>Make user admin?</label2>
+        <butonUpdate>Update user in database</butonUpdate>
+
+        <titluDelete>Delete an user from database</titluDelete>
+        <deleteLabel>Which user to delete</deleteLabel>
+        <butonDelete>Delete user from database</butonDelete>
+
+        <viewLabel>Table with all users from database</viewLabel>
+
+        <emailLabel>Enter the email</emailLabel>
+        <phoneLabel>Enter phone number</phoneLabel>
+    </english>
+
+    <french>
+        <titlu>SYSTÈME PARC ZOOLOGIQUE</titlu>
+        <login>Connexion</login>
+        <loginGuest>Connexion en tant qu'invité</loginGuest>
+        <titluL>Choisissez une autre langue :</titluL>
+        <guestView>Vue invité</guestView>
+        <angajatStuff>Gestion des administrateurs</angajatStuff>
+        <title2>Sélectionnez une option dans le menu de gauche</title2>
+        <welcomingLabel>Bienvenue administrateur </welcomingLabel>
+        <operationLabel>Choisissez une opération</operationLabel>
+
+        <add>Ajouter utilisateur</add>
+        <titluAdd>Ajouter utilisateur base de données</titluAdd>
+        <idLabel>Entrez l'identifiant</idLabel>
+        <nameLabel>Entrez le nom d'utilisateur</nameLabel>
+        <speciesLabel>Entrez le mot de passe</speciesLabel>
+        <dietLabel>Définir comme administrateur</dietLabel>
+        <butonAdd>Ajouter l'utilisateur à la base de données</butonAdd>
+
+        <find>Rechercher utilisateur</find>
+        <titluFind>Rechercher un utilisateur dans la base de données</titluFind>
+        <findLabel>Rechercher utilisateur par</findLabel>
+        <coloanaID>ID</coloanaID>
+        <coloanaUsername>Nom d'utilisateur</coloanaUsername>
+        <coloanaPassword>Mot de passe</coloanaPassword>
+        <coloanaAdmin>Administrateur</coloanaAdmin>
+        <butonFind>Rechercher utilisateur dans la base de données</butonFind>
+
+        <update>Mettre à jour utilisateur</update>
+        <titluUpdate>Mettre à jour un utilisateur de la base de données</titluUpdate>
+        <label1>Quel utilisateur mettre à jour ?</label1>
+        <comboID>ID</comboID>
+        <comboUsername>nom d'utilisateur</comboUsername>
+        <comboPassword>mot de passe</comboPassword>
+        <comboAdmin>administrateur</comboAdmin>
+        <label2>Rendre l'utilisateur administrateur ?</label2>
+        <butonUpdate>Mettre à jour l'utilisateur dans la base de données</butonUpdate>
+
+        <delete>Supprimer utilisateur</delete>
+        <titluDelete>Supprimer un utilisateur de la base de données</titluDelete>
+        <deleteLabel>Quel utilisateur supprimer ?</deleteLabel>
+        <butonDelete>Supprimer utilisateur de la base de données</butonDelete>
+
+        <viewAll>Voir tous les utilisateurs</viewAll>
+        <viewLabel>Tableau avec tous les utilisateurs de la base de données</viewLabel>
+
+        <emailLabel>Entrez l'email</emailLabel>
+        <phoneLabel>Entrez le numéro de téléphone</phoneLabel>
+
+    </french>
+</limbi>

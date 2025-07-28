@@ -1,0 +1,64 @@
+Üdvözöljük a Circle Learning App-ben
+Üdvözöljük
+Kilépés
+Vissza
+Bejelentkezés
+Kijelentkezés
+Regisztráció
+Beírt Kör
+Körülírt Kör
+Különleges
+Beírt Körök
+Körülírt Körök
+Különleges Körök
+Rajzolj
+Teszt
+ID
+Felhasználónév
+Jelszó
+Email
+Típus
+Jelszó Ismét
+Tisztítsd
+Add Hozzá
+Szerezd
+Módosítsd
+Töröld
+Kérem Jelenkezzen Be
+Kérem Regisztráljon
+Kérem
+Pozíció
+Sugár
+Átmérő
+Kerület
+Terület
+Szín
+Vastagság
+Alkalmaz
+Megmentés
+Betöltés
+Előző
+Következő
+Befejezés
+Teszt Eredmény
+Gratulálunk
+Ön szerzett
+pontot
+Megint
+Folytassa
+Offline Főoldal
+Online Főoldal
+Admin Főoldal
+Fekete
+Kék
+Cián
+Sötét Szűrke
+Szűrke
+Zöld
+Világos Szűrke
+Bíborvörös
+Narancssárga
+Rózsaszín
+Piros
+Fehér
+Sárga
