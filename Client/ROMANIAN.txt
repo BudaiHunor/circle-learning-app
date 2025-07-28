@@ -1,0 +1,64 @@
+Bine ați venit la Circle Learning App
+Bine ați venit
+Ieșire
+Înapoi
+Autentificare
+Deconectare
+Înregistrare
+Înscris
+Circumscris
+Special
+Cercuri Înscrise
+Cercuri Circumscrise
+Cercuri Speciale
+Desenează
+Test
+ID
+Nume Utilizator
+Parolă
+Email
+Tip
+Parolă Din Nou
+Curăță
+Adaugă
+Obține
+Modifică
+Șterge
+Vă Rog Autentificați-vă
+Vă Rog Înregistrați-vă
+Vă rog
+Poziție
+Rază
+Diametru
+Perimetru
+Arie
+Culoare
+Grosime
+Aplică
+Salvează
+Încarcă
+Anterior
+Următor
+Finalizare
+Rezultat Test
+Felicitări
+Ați obținut
+puncte
+Din nou
+Continuați
+Pagină Principală Offline
+Pagină Principală Online
+Pagină Principală Admin
+Negru
+Albastru
+Cyan
+Gri Închis
+Gri
+Verde
+Gri Deschis
+Magenta
+Portocaliu
+Roz
+Roșu
+Alb
+Galben

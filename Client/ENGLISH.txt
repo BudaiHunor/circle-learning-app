@@ -1,0 +1,64 @@
+Welcome to the Circle Learning App
+Welcome
+Exit
+Back
+Log In
+Log Out
+Sign Up
+Inscribed
+Circumscribed
+Special
+Inscribed Circles
+Circumscribed Circles
+Special Circles
+Draw
+Test
+ID
+Username
+Password
+Email
+Type
+Repeat Password
+Clear
+Add
+Get
+Modify
+Remove
+Please Log In
+Please Sign Up
+Please
+Position
+Radius
+Diameter
+Perimeter
+Area
+Color
+Thickness
+Apply
+Save
+Load
+Previous
+Next
+Finish
+Test Result
+Congratulations
+You scored
+points
+Again
+Continue
+Offline Main Page
+Online Main Page
+Admin Main Page
+Black
+Blue
+Cyan
+Dark Gray
+Gray
+Green
+Light Gray
+Magenta
+Orange
+Pink
+Red
+White
+Yellow

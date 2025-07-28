@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<limbi>
+    <english>
+        <guestView>Guest View</guestView>
+        <angajatStuff>Worker administrative</angajatStuff>
+        <title2>Choose an option from the left menu</title2>
+        <guestLabel1>Search animal by name</guestLabel1>
+        <nameSearchButton>Search by name</nameSearchButton>
+        <viewAllButton>View all animals</viewAllButton>
+        <guestLabel2>Filter animals by:</guestLabel2>
+        <filterButton>Filter animals</filterButton>
+        <welcomingLabel>Welcome user </welcomingLabel>
+        <operationLabel>Choose an operation</operationLabel>
+
+        <titluAddSpecies>Add a new specie in the ZOO</titluAddSpecies>
+        <nameSpeciesLabel>Enter the name </nameSpeciesLabel>
+        <categorySpeciesLabel>Enter the category </categorySpeciesLabel>
+        <dietSpeciesLabel>Enter the diet </dietSpeciesLabel>
+        <habitatSpeciesLabel>Enter the habitat </habitatSpeciesLabel>
+        <butonAddSpecies>Add specie to data base</butonAddSpecies>
+
+        <titluFindSpecies>Find a specie in the ZOO</titluFindSpecies>
+        <searchSpeciesLabel>Search specie by </searchSpeciesLabel>
+        <butonFindSpecies>Find specie in data base</butonFindSpecies>
+
+        <titluUpdateSpecies>Update a specie from ZOO</titluUpdateSpecies>
+        <updateSpeciesLabel>What species to update </updateSpeciesLabel>
+        <butonUpdateSpecies>Update species in data base</butonUpdateSpecies>
+
+        <titluDeleteSpecies>Delete a specie from ZOO</titluDeleteSpecies>
+        <deleteSpeciesLabel>Which specie to delete </deleteSpeciesLabel>
+        <butonDeleteSpecies>Delete species from data base</butonDeleteSpecies>
+
+        <titluAddAnimal>Add a new animal to the ZOO</titluAddAnimal>
+        <nameAnimalLabel>Enter the name </nameAnimalLabel>
+        <speciesAnimalLabel>What species </speciesAnimalLabel>
+        <ageAnimalLabel>Enter the age </ageAnimalLabel>
+        <weightAnimalLabel>Enter the weight </weightAnimalLabel>
+        <locationAnimalLabel>Enter the location </locationAnimalLabel>
+        <imageAnimalLabel>Choose images</imageAnimalLabel>
+        <butonAddAnimal>Add animal to data base</butonAddAnimal>
+
+        <titluFindAnimal>Find an animal in the ZOO</titluFindAnimal>
+        <searchAnimalLabel>Search animal by </searchAnimalLabel>
+        <butonFindAnimal>Find animal in data base</butonFindAnimal>
+
+        <titluUpdateAnimal>Update an animal from ZOO</titluUpdateAnimal>
+        <updateAnimalLabel>What animal to update </updateAnimalLabel>
+        <butonUpdateAnimal>Update animal in data base</butonUpdateAnimal>
+
+        <titluDeleteAnimal>Delete an animal from ZOO</titluDeleteAnimal>
+        <deleteAnimalLabel>Which animal to delete </deleteAnimalLabel>
+        <butonDeleteAnimals>Delete animal from data base</butonDeleteAnimals>
+
+        <save>Save list of animals</save>
+        <label2>Choose a format:</label2>
+        <saveButton>Save</saveButton>
+
+        <statistics>Statistics for the animals from the zoo</statistics>
+        <label3>Choose a structure for statistics: </label3>
+    </english>
+
+    <spanish>
+        <guestView>Vista de Invitado</guestView>
+        <angajatStuff>Administrativo de trabajadores</angajatStuff>
+        <title2>Elija una opción del menú de la izquierda</title2>
+        <guestLabel1>Buscar animal por nombre</guestLabel1>
+        <nameSearchButton>Buscar por nombre</nameSearchButton>
+        <viewAllButton>Ver todos los animales</viewAllButton>
+        <guestLabel2>Filtrar animales por:</guestLabel2>
+        <filterButton>Filtrar animales</filterButton>
+        <welcomingLabel>Bienvenido usuario </welcomingLabel>
+        <operationLabel>Elija una operación</operationLabel>
+
+        <titluAddSpecies>Agregar una nueva especie al ZOO</titluAddSpecies>
+        <nameSpeciesLabel>Ingrese el nombre </nameSpeciesLabel>
+        <categorySpeciesLabel>Ingrese la categoría </categorySpeciesLabel>
+        <dietSpeciesLabel>Ingrese la dieta </dietSpeciesLabel>
+        <habitatSpeciesLabel>Ingrese el hábitat </habitatSpeciesLabel>
+        <butonAddSpecies>Agregar especie a la base de datos</butonAddSpecies>
+
+        <titluFindSpecies>Encontrar una especie en el ZOO</titluFindSpecies>
+        <searchSpeciesLabel>Buscar especie por </searchSpeciesLabel>
+        <butonFindSpecies>Encontrar especie en la base de datos</butonFindSpecies>
+
+        <titluUpdateSpecies>Actualizar una especie del ZOO</titluUpdateSpecies>
+        <updateSpeciesLabel>Qué especie actualizar </updateSpeciesLabel>
+        <butonUpdateSpecies>Actualizar especie en la base de datos</butonUpdateSpecies>
+
+        <titluDeleteSpecies>Eliminar una especie del ZOO</titluDeleteSpecies>
+        <deleteSpeciesLabel>Qué especie eliminar </deleteSpeciesLabel>
+        <butonDeleteSpecies>Eliminar especie de la base de datos</butonDeleteSpecies>
+
+        <titluAddAnimal>Agregar un nuevo animal al ZOO</titluAddAnimal>
+        <nameAnimalLabel>Ingrese el nombre </nameAnimalLabel>
+        <speciesAnimalLabel>Qué especie </speciesAnimalLabel>
+        <ageAnimalLabel>Ingrese la edad </ageAnimalLabel>
+        <weightAnimalLabel>Ingrese el peso </weightAnimalLabel>
+        <locationAnimalLabel>Ingrese la ubicación </locationAnimalLabel>
+        <imageAnimalLabel>Elegir imágenes</imageAnimalLabel>
+        <butonAddAnimal>Agregar animal a la base de datos</butonAddAnimal>
+
+        <titluFindAnimal>Encontrar un animal en el ZOO</titluFindAnimal>
+        <searchAnimalLabel>Buscar animal por </searchAnimalLabel>
+        <butonFindAnimal>Encontrar animal en la base de datos</butonFindAnimal>
+
+        <titluUpdateAnimal>Actualizar un animal del ZOO</titluUpdateAnimal>
+        <updateAnimalLabel>Qué animal actualizar </updateAnimalLabel>
+        <butonUpdateAnimal>Actualizar animal en la base de datos</butonUpdateAnimal>
+
+        <titluDeleteAnimal>Eliminar un animal del ZOO</titluDeleteAnimal>
+        <deleteAnimalLabel>Qué animal eliminar </deleteAnimalLabel>
+        <butonDeleteAnimals>Eliminar animal de la base de datos</butonDeleteAnimals>
+
+        <save>Guardar lista de animales</save>
+        <label2>Elija un formato:</label2>
+        <saveButton>Guardar</saveButton>
+
+        <statistics>Estadísticas de los animales del zoológico</statistics>
+        <label3>Elija una estructura para las estadísticas: </label3>
+    </spanish>
+
+    <french>
+        <guestView>Vue Invité</guestView>
+        <angajatStuff>Administratif des travailleurs</angajatStuff>
+        <title2>Choisissez une option dans le menu de gauche</title2>
+        <guestLabel1>Rechercher un animal par nom</guestLabel1>
+        <nameSearchButton>Rechercher par nom</nameSearchButton>
+        <viewAllButton>Voir tous les animaux</viewAllButton>
+        <guestLabel2>Filtrer les animaux par :</guestLabel2>
+        <filterButton>Filtrer les animaux</filterButton>
+        <welcomingLabel>Bienvenue utilisateur </welcomingLabel>
+        <operationLabel>Choisissez une opération</operationLabel>
+
+        <titluAddSpecies>Ajouter une nouvelle espèce au ZOO</titluAddSpecies>
+        <nameSpeciesLabel>Entrez le nom </nameSpeciesLabel>
+        <categorySpeciesLabel>Entrez la catégorie </categorySpeciesLabel>
+        <dietSpeciesLabel>Entrez le régime </dietSpeciesLabel>
+        <habitatSpeciesLabel>Entrez l'habitat </habitatSpeciesLabel>
+        <butonAddSpecies>Ajouter l'espèce à la base de données</butonAddSpecies>
+
+        <titluFindSpecies>Trouver une espèce au ZOO</titluFindSpecies>
+        <searchSpeciesLabel>Rechercher l'espèce par </searchSpeciesLabel>
+        <butonFindSpecies>Trouver l'espèce dans la base de données</butonFindSpecies>
+
+        <titluUpdateSpecies>Mettre à jour une espèce du ZOO</titluUpdateSpecies>
+        <updateSpeciesLabel>Quelle espèce mettre à jour </updateSpeciesLabel>
+        <butonUpdateSpecies>Mettre à jour l'espèce dans la base de données</butonUpdateSpecies>
+
+        <titluDeleteSpecies>Supprimer une espèce du ZOO</titluDeleteSpecies>
+        <deleteSpeciesLabel>Quelle espèce supprimer </deleteSpeciesLabel>
+        <butonDeleteSpecies>Supprimer l'espèce de la base de données</butonDeleteSpecies>
+
+        <titluAddAnimal>Ajouter un nouvel animal au ZOO</titluAddAnimal>
+        <nameAnimalLabel>Entrez le nom </nameAnimalLabel>
+        <speciesAnimalLabel>Quelle espèce </speciesAnimalLabel>
+        <ageAnimalLabel>Entrez l'âge </ageAnimalLabel>
+        <weightAnimalLabel>Entrez le poids </weightAnimalLabel>
+        <locationAnimalLabel>Entrez l'emplacement </locationAnimalLabel>
+        <imageAnimalLabel>Choisissez des images</imageAnimalLabel>
+        <butonAddAnimal>Ajouter l'animal à la base de données</butonAddAnimal>
+
+        <titluFindAnimal>Trouver un animal au ZOO</titluFindAnimal>
+        <searchAnimalLabel>Rechercher l'animal par </searchAnimalLabel>
+        <butonFindAnimal>Trouver l'animal dans la base de données</butonFindAnimal>
+
+        <titluUpdateAnimal>Mettre à jour un animal du ZOO</titluUpdateAnimal>
+        <updateAnimalLabel>Quel animal mettre à jour </updateAnimalLabel>
+        <butonUpdateAnimal>Mettre à jour l'animal dans la base de données</butonUpdateAnimal>
+
+        <titluDeleteAnimal>Supprimer un animal du ZOO</titluDeleteAnimal>
+        <deleteAnimalLabel>Quel animal supprimer </deleteAnimalLabel>
+        <butonDeleteAnimals>Supprimer l'animal de la base de données</butonDeleteAnimals>
+
+        <save>Enregistrer la liste des animaux</save>
+        <label2>Choisissez un format :</label2>
+        <saveButton>Enregistrer</saveButton>
+
+        <statistics>Statistiques des animaux du zoo</statistics>
+        <label3>Choisissez une structure pour les statistiques : </label3>
+    </french>
+</limbi>
